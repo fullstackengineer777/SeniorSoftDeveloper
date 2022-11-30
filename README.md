@@ -1,4 +1,4 @@
-# 👋 Hi, Glad to meet you. I am working on upwork.
+# 👋 Hi, Glad to meet you.
 # 📫 How to reach me ...
    - coindevmentor9211@gmail.com
 # 💞️ I’m looking to collaborate on WebSite Development, Artificial Intelligence and Game Server Building. <br> I am skilled in  
