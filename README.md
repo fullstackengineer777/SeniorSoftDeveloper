@@ -6,6 +6,8 @@
    - Node.js, Express.js, Meteor.js (8 years)
    - C++, C#, Boost,STL, Unity (15 years)
    - Figma, XD, Adobe Photoshop ( 10 years)
+   - Python, Django, Web Scrapping
+   - Solana, Rust, Ethereum , Polygon
 # 📫 How to reach me ...
    - coindevmentor9211@gmail.com
 
