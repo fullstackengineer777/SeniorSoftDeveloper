@@ -1,4 +1,4 @@
-# 👋 Hi, Glad to meet you.
+# 👋 Hi, Welcome
 
 # 💞️ I’m looking to collaborate on WebSite Development, Artificial Intelligence and Game Server Building. <br> I am skilled in  
    - React.js, Vue.js, JavaScript, CSS,  ( 8 years)
