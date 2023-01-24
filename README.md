@@ -1,6 +1,7 @@
 # 👋 Hi, Welcome
 
-# 💞️ I’m looking to collaborate on WebSite Development. <br> I am skilled in  
+# 💞️ I am a Full Stack developer
+   I want to collaborate on WebSite Development. <br> I am skilled in  
    - React.js, Vue.js, JavaScript, CSS,  ( 8 years)
    - PHP, Laravel, WordPress, Code Igniter (15 years)
    - Node.js, Express.js, Meteor.js, Golang (8 years)
